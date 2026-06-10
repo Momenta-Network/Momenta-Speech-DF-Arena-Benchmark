@@ -1,3 +1,19 @@
+This repository uses two licenses:
+
+1. The evaluation code, documentation, and results tables (everything except
+   the scores/ and protocol_files/ directories) are released under the MIT
+   License (below).
+
+2. Momenta's score files (scores/) are released under the Creative Commons
+   Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0) — see
+   LICENSE-SCORES.
+
+3. The protocol files (protocol_files/) originate from the Speech DF Arena
+   and the underlying public datasets, and remain subject to the terms of
+   their original distributions.
+
+--------------------------------------------------------------------------
+
 MIT License
 
 Copyright (c) 2026 Momenta
@@ -11,11 +27,6 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
-
-This license covers Momenta's score files (scores/), the evaluation script,
-and the results tables. The protocol files (protocol_files/) originate from
-the Speech DF Arena and the underlying public datasets, and remain subject to
-the terms of their original distributions.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,

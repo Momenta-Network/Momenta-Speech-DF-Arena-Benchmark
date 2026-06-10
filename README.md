@@ -116,7 +116,8 @@ Benchmark paper:
 
 ## License and attribution
 
-- Momenta's score files (`scores/`), the evaluation script, and the results tables are released under the [MIT License](LICENSE) — use them freely with attribution.
+- The evaluation script, documentation, and results tables are released under the [MIT License](LICENSE) — use them freely with attribution.
+- Momenta's score files (`scores/`) are released under [CC BY-NC 4.0](LICENSE-SCORES): verify, reproduce, cite, and analyze them freely; commercial use — including using the scores as training or distillation targets for commercial ML systems — requires Momenta's permission.
 - The protocol files originate from the [Speech DF Arena](https://github.com/Speech-Arena/speech_df_arena) and the underlying datasets (ASVspoof, ADD, In-the-Wild, CodecFake, DFADD, LibriSeVoc, Fake-or-Real, SONAR); labels remain subject to the terms of their original distributions. They are redistributed here, without any audio, solely to make the benchmark results verifiable.
 
 If you use these results or files in your work, please cite the Speech DF Arena paper above and link to this repository or the [blog post](https://momenta.network/blog/audio-deepfake-detection-2026).

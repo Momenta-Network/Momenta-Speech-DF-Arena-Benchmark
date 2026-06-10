@@ -1,0 +1,31 @@
+Momenta Speech DF Arena Score Files — License
+
+Copyright (c) 2026 Momenta
+
+The per-utterance score files in the scores/ directory are licensed under the
+Creative Commons Attribution-NonCommercial 4.0 International License
+(CC BY-NC 4.0).
+
+You are free to:
+
+  Share — copy and redistribute the score files in any medium or format
+  Adapt — remix, transform, and build upon the score files
+
+Under the following terms:
+
+  Attribution — You must give appropriate credit to Momenta
+  (https://momenta.network), provide a link to this repository, and indicate
+  if changes were made.
+
+  NonCommercial — You may not use the score files for commercial purposes.
+  This includes, without limitation, using the scores as training,
+  distillation, or calibration targets for commercial machine-learning
+  systems. Verifying, reproducing, citing, and analyzing the benchmark
+  results — including in commercial contexts such as press coverage or
+  vendor evaluations — is welcomed and encouraged.
+
+For the full license text, see:
+https://creativecommons.org/licenses/by-nc/4.0/legalcode
+
+For commercial licensing inquiries, contact Momenta via
+https://momenta.network.
